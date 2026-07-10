@@ -23,7 +23,7 @@ The repository is organized into five structured core modules:
 ### Module 1: Introduction
 * **General Concepts**: Explains basic terminology, mapping agent interactions (actions, states, rewards) to real-world applications. It highlights critical design obstacles like exploration vs. exploitation, massive sample inefficiencies, and the sim-to-real gap.
 * **Gymnasium**: Hands-on onboarding with standard OpenAI-derived benchmark environments using the `gymnasium` library.
-
+[Introduction](https://github.com/aduo7/RL_EU4DUAL/blob/main/01_EU4DUAL_Reinforcement_Learning_Intro_MGEP.pdf)
 ### Module 2: RL Basics
 * **Markov Decision Processes (MDPs)**: Formulates the foundational mathematical framework of reinforcement learning. Topics cover state transition probabilities, return definitions for episodic and continuing tasks, state/action value functions, and solving systems using the Bellman optimality equations.
 
