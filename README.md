@@ -1,26 +1,24 @@
 # Reinforcement Learning (RL) Course Repository
 
-This repository houses the code, practical exercises, and theoretical foundations developed for the **Reinforcement Learning (RL)** module. This course is a core component of the **Master's Degree in Applied Artificial Intelligence** at **Mondragon Unibertsitatea - Escuela Politécnica Superior**. 
-
-The curriculum provides a progressive pipeline bridging basic mathematical paradigms with modern deep networks and automated hyperparameter optimization frameworks. The structure closely follows the benchmark text *Reinforcement Learning: An Introduction* by Richard S. Sutton and Andrew G. Barto.
-
+This repository houses the code, practical exercises, and theoretical foundations developed for the **Reinforcement Learning (RL)** module.
 ---
 
-## 🎯 Course Objective
+## Course Objective
 
-The primary objective of this course is to build a rigorous theoretical and practical foundation for training autonomous agents to solve sequential optimization tasks via trial-and-error environment interaction over discrete time steps. Unlike supervised machine learning, which depends on independent, identically distributed static datasets, reinforcement learning works within environments characterized by sequential dependence and delayed feedback. The agent relies entirely on scalar reward signals to learn optimal long-term behaviors.
+The main objective of this course is to build a theoretical and practical foundation for training autonomous agents to solve sequential optimization tasks via trial-and-error environment interaction over discrete time steps. Unlike supervised machine learning, which depends on independent, identically distributed static datasets, reinforcement learning works within environments characterized by sequential dependence and delayed feedback. The agent relies entirely on scalar reward signals to learn optimal long-term behaviors.
 
 ### Core Competencies Developed
 * **Sequential Modeling**: Formulating complex continuous or discrete control problems through the mathematical lens of a Markov Decision Process (MDP).
 * **Tabular Methods**: Implementing exact value-based algorithms for low-dimensional tracking tasks.
 * **Deep Architectures**: Scaling architectures to high-dimensional state-action spaces using Deep Q-Networks (DQN) and policy gradient models (A2C/PPO).
-* **Rigorous Validation**: Deploying automated tuning pipelines and comparative statistical significance metrics to navigate the stochastic nature of RL environments.
+* **Validation**: Deploying automated tuning pipelines and comparative statistical significance metrics to navigate the stochastic nature of RL environments.
 
 ---
 
-## 📅 Course Outline
+## Course Outline
 
 The repository is organized into five structured core modules:
+
 
 ### Module 1: Introduction
 * **General Concepts**: Explains basic terminology, mapping agent interactions (actions, states, rewards) to real-world applications. It highlights critical design obstacles like exploration vs. exploitation, massive sample inefficiencies, and the sim-to-real gap.
