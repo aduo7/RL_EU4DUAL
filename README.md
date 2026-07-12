@@ -48,4 +48,4 @@ The repository is organized into five structured core modules:
 
 
 ### Supplementary
-Si estais interesados en material adicional: []
+If you’re interested in further material: [supplementary](https://github.com/aduo7/RL_EU4DUAL/tree/main/supplementary)
