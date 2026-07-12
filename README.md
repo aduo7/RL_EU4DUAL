@@ -45,3 +45,7 @@ The repository is organized into five structured core modules:
 * **Hyperparameter Optimization**: Automated hyperparameter searching (learning rates, discount factors, batch sizes) using Optuna's Tree-structured Parzen Estimator (TPE) samplers and Median Pruners.
 * **Evaluation Metrics**: Standardized run logging metrics capturing episodic mean returns, step tracking, loss curves, and throughput frames per second (FPS).
 * **Statistical Significance**: Robust verification utilizing Welch's t-test, confidence intervals, and tolerance intervals to confidently establish algorithmic performance improvements across highly stochastic environments.
+
+
+### Supplementary
+Si estais interesados en material adicional: []
