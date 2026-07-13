@@ -43,11 +43,11 @@ The repository is organized into five structured core modules:
 
 ### Module 5: Evaluation
 * **Hyperparameter Optimization**: Automated hyperparameter searching (learning rates, discount factors, batch sizes) using Optuna's Tree-structured Parzen Estimator (TPE) samplers and Median Pruners.
-  [Hyperparameter Optimization][https://github.com/aduo7/RL_EU4DUAL/blob/main/05_EU4DUAL_RL_HyperparameterTunning_MGEP.pdf]
+  [Hyperparameter Optimization](https://github.com/aduo7/RL_EU4DUAL/blob/main/05_EU4DUAL_RL_HyperparameterTunning_MGEP.pdf)
 * **Evaluation Metrics**: Standardized run logging metrics capturing episodic mean returns, step tracking, loss curves, and throughput frames per second (FPS).
-  [Evaluation_metrics][https://github.com/aduo7/RL_EU4DUAL/blob/main/04_EU4DUAL_Reinforcement_Learning_Metrics_MGEP.pdf]
+  [Evaluation_metrics](https://github.com/aduo7/RL_EU4DUAL/blob/main/04_EU4DUAL_Reinforcement_Learning_Metrics_MGEP.pdf)
 * **Statistical Significance**: Robust verification utilizing Welch's t-test, confidence intervals, and tolerance intervals to confidently establish algorithmic performance improvements across highly stochastic environments.
-  [Statistical Significance][https://github.com/aduo7/RL_EU4DUAL/blob/main/04_EU4DUAL_Reinforcement_Learning_Metrics_MGEP.pdf]
+  [Statistical Significance](https://github.com/aduo7/RL_EU4DUAL/blob/main/04_EU4DUAL_Reinforcement_Learning_Metrics_MGEP.pdf)
 
 
 ### Supplementary
