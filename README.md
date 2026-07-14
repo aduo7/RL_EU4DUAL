@@ -3,6 +3,15 @@
 This repository houses the code, practical exercises, and theoretical foundations developed for the **Reinforcement Learning (RL)** module.
 ---
 
+## Personal project: 
+
+[flappy-bird](https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-bird-gym)
+pip install text-flappy-bird-gym
+
+[Blackjack](https://gymnasium.farama.org/environments/toy_text/blackjack/)
+
+
+
 ## Course Objective
 
 The main objective of this course is to build a theoretical and practical foundation for training autonomous agents to solve sequential optimization tasks via trial-and-error environment interaction over discrete time steps. Unlike supervised machine learning, which depends on independent, identically distributed static datasets, reinforcement learning works within environments characterized by sequential dependence and delayed feedback. The agent relies entirely on scalar reward signals to learn optimal long-term behaviors.
