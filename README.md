@@ -52,3 +52,6 @@ The repository is organized into five structured core modules:
 
 ### Supplementary
 If you’re interested in further material: [supplementary](https://github.com/aduo7/RL_EU4DUAL/tree/main/supplementary)
+
+### Registration form
+In order to register to the course you must fulfill the following form: [link](https://forms.gle/gZ4vStfj6x3LTLTs9)
