@@ -33,18 +33,18 @@ The repository is organized into five structured core modules:
 * **General Concepts**: Explains basic terminology, mapping agent interactions (actions, states, rewards) to real-world applications. It highlights critical design obstacles like exploration vs. exploitation, massive sample inefficiencies, and the sim-to-real gap.
 * **Gymnasium**: Hands-on onboarding with standard OpenAI-derived benchmark environments using the `gymnasium` library.
   
-[01_Introduction](https://github.com/aduo7/RL_EU4DUAL/blob/main/01_EU4DUAL_Reinforcement_Learning_Intro_MGEP.pdf)
+[Introduction](https://github.com/aduo7/RL_EU4DUAL/blob/main/01_EU4DUAL_Reinforcement_Learning_Intro_MGEP.pdf)
 ### Module 2: RL Basics
 * **Markov Decision Processes (MDPs)**: Formulates the foundational mathematical framework of reinforcement learning. Topics cover state transition probabilities, return definitions for episodic and continuing tasks, state/action value functions, and solving systems using the Bellman optimality equations.
 
-[02_MDP](https://github.com/aduo7/RL_EU4DUAL/blob/main/02_EU4DUAL_Reinforcement_Learning_MDP_MGEP.pdf)
+[MDP](https://github.com/aduo7/RL_EU4DUAL/blob/main/02_EU4DUAL_Reinforcement_Learning_MDP_MGEP.pdf)
 
 ### Module 3: Classic RL
 * **Temporal Difference (TD) Learning**: Model-free, data-driven evaluation mechanisms using the Generalized Policy Iteration (GPI) paradigm.
 * **Sarsa**: Implementations of on-policy single-step state-action value updates.
 * **Q-Learning**: Implementations of off-policy action-value exploration, tested across classic tabular setups like Cliff Walking.
 
-[03_TD_Learning](https://github.com/aduo7/RL_EU4DUAL/blob/main/03_EU4DUAL_Reinforcement_Learning_TDLearning_MGEP.pdf)
+[TD_Learning](https://github.com/aduo7/RL_EU4DUAL/blob/main/03_EU4DUAL_Reinforcement_Learning_TDLearning_MGEP.pdf)
 
 ### Module 4: Deep RL
 * **Deep Q-Networks (DQN)**: Implementing neural network function approximation to resolve continuous or high-dimensional state profiles. Key patterns include experience replay memory buffers to break temporal data correlation and stabilize gradient updates.
