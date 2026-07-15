@@ -3,6 +3,15 @@
 This repository houses the code, practical exercises, and theoretical foundations developed for the **Reinforcement Learning (RL)** module.
 ---
 
+## Personal project: 
+
+[flappy-bird](https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-bird-gym)
+pip install text-flappy-bird-gym
+
+[Blackjack](https://gymnasium.farama.org/environments/toy_text/blackjack/)
+
+
+
 ## Course Objective
 
 The main objective of this course is to build a theoretical and practical foundation for training autonomous agents to solve sequential optimization tasks via trial-and-error environment interaction over discrete time steps. Unlike supervised machine learning, which depends on independent, identically distributed static datasets, reinforcement learning works within environments characterized by sequential dependence and delayed feedback. The agent relies entirely on scalar reward signals to learn optimal long-term behaviors.
@@ -43,9 +52,15 @@ The repository is organized into five structured core modules:
 
 ### Module 5: Evaluation
 * **Hyperparameter Optimization**: Automated hyperparameter searching (learning rates, discount factors, batch sizes) using Optuna's Tree-structured Parzen Estimator (TPE) samplers and Median Pruners.
+  [Hyperparameter Optimization](https://github.com/aduo7/RL_EU4DUAL/blob/main/05_EU4DUAL_RL_HyperparameterTunning_MGEP.pdf)
 * **Evaluation Metrics**: Standardized run logging metrics capturing episodic mean returns, step tracking, loss curves, and throughput frames per second (FPS).
+  [Evaluation_metrics](https://github.com/aduo7/RL_EU4DUAL/blob/main/04_EU4DUAL_Reinforcement_Learning_Metrics_MGEP.pdf)
 * **Statistical Significance**: Robust verification utilizing Welch's t-test, confidence intervals, and tolerance intervals to confidently establish algorithmic performance improvements across highly stochastic environments.
+  [Statistical Significance](https://github.com/aduo7/RL_EU4DUAL/blob/main/04_EU4DUAL_Reinforcement_Learning_Metrics_MGEP.pdf)
 
 
 ### Supplementary
 If you’re interested in further material: [supplementary](https://github.com/aduo7/RL_EU4DUAL/tree/main/supplementary)
+
+### Registration form
+In order to register to the course you must fulfill the following form: [link](https://forms.gle/gZ4vStfj6x3LTLTs9)
