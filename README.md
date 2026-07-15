@@ -48,7 +48,10 @@ The repository is organized into five structured core modules:
 
 ### Module 4: Deep RL
 * **Deep Q-Networks (DQN)**: Implementing neural network function approximation to resolve continuous or high-dimensional state profiles. Key patterns include experience replay memory buffers to break temporal data correlation and stabilize gradient updates.
+  [DQN](https://github.com/aduo7/RL_EU4DUAL/blob/main/06_EU4DUAL_RL_DQN_MGEP.pdf)
 * **Policy Gradient Frameworks (A2C & PPO)**: Advanced actor-critic methods optimizing policies directly. Covers Advantage Actor-Critic (A2C) base estimators alongside Proximal Policy Optimization (PPO) using clipped surrogate objective functions, value losses, and exploration-driving entropy coefficients to secure stable policy shifts.
+  [Policy Gradient Methods](https://github.com/aduo7/RL_EU4DUAL/blob/main/07_EU4DUAL_RL_PolicyGradient_MGEP.pdf)
+  [PPO](https://github.com/aduo7/RL_EU4DUAL/blob/main/08_EU4DUAL_RL_PPO_MGEP.pdf)
 
 ### Module 5: Evaluation
 * **Hyperparameter Optimization**: Automated hyperparameter searching (learning rates, discount factors, batch sizes) using Optuna's Tree-structured Parzen Estimator (TPE) samplers and Median Pruners.
